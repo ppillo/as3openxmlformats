@@ -11,3 +11,6 @@ I have not undergone a serious research on this specification - most are done by
 
   * http://msdn.microsoft.com/en-us/library/bb266220.aspx
   * http://msdn.microsoft.com/en-us/library/aa338205.aspx
+
+
+http://www.ecma-international.org/publications/standards/Ecma-376.htm
